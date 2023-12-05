@@ -1,0 +1,16 @@
+body {
+    background-image: url('https://media4.giphy.com/media/xWMPYx55WNhX136T0V/giphy.gif?cid=ecf05e477z6zlk11sgpj34nxg3a37emikpg9klhepc7awepe&ep=v1_gifs_search&rid=giphy.gif');
+    background-size: cover;
+    margin-left: 20px;
+}
+
+a {
+    font-size: 18px;
+}
+
+img {
+    width: 50%;
+    height: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
